@@ -1,4 +1,6 @@
-# Graduation Research 2 - Android Malware Analysis
+# [IT5024E] Graduation Research 2 - Android Malware Analysis
+Nguyen Tieu Phuong
+Student ID: 20210692
 
 This repository contains the results and research work done as part of the Graduation Research 2 project at Hanoi University of Science and Technology. The project focuses on Android malware analysis, specifically static analysis of Android APK files using various tools and techniques.
 
@@ -18,7 +20,7 @@ The goal of this research is to explore and develop methods for identifying mali
 - **Androguard**: An open-source tool for analyzing Android applications, providing capabilities like disassembly, decompilation, and static analysis.
 - **JADX**: A decompiler for Android APK files, converting them into Java code.
 - **APKTool**: A tool for reverse engineering Android APK files and decoding resources to their original form.
-- **Python**: Used for developing scripts to automate the analysis process.
+- **Ghidra**: Used for generating graphs from APKs.
 
 ## Project Structure
 
